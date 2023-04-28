@@ -1,5 +1,5 @@
 # UDP Server-Client
-This is an program that broadcasts messages using the UDP protocol.
+This is a program that broadcasts messages using the UDP protocol.
 
 ## Prerequisites
  - C compiler (e.g. GCC)
